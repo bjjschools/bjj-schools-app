@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "bjj-schools-app",
+    "slug": "bjj-schools-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
